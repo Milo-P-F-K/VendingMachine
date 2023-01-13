@@ -3,6 +3,8 @@
  
  To launch the app, open the spreadsheet file, allow and enable macros with the prompt under tool ribbon, then click the button in the middle of spreadsheet.
  
+ To view code, enable "Developer" tab of the tool ribbon, in options -> customize the Ribbon -> tick the "Developer" field.
+ 
  
 ![image](https://user-images.githubusercontent.com/110130588/212419855-656f906a-3419-4944-9e15-f4c2437dd193.png)
 
